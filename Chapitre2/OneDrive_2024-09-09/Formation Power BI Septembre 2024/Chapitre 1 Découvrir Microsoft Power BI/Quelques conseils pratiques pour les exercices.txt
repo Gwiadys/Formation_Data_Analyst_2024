@@ -1,0 +1,25 @@
+Tous les travaux pratiques sont entièrement rédigés sous forme d'une procédure prête à l'emploi.
+
+Chaque exercice des travaux pratiques est organisé à l'identique avec 4 sections au maximum : Objectif, Préparation, Manipulations, Résumé.
+
+La section Objectif : vous devez uniquement la lire, sans faire de manipulations.
+
+La section Préparation est facultative. Si elle est présente, vous devez vérifier que les conditions sont bien remplies, sinon vous ne pourrez pas faire l'exercice.
+
+La section Manipulations contient toutes les instructions nécessaires pour réaliser l'objectif de l'exercice. Les actions que vous avez à faire sont marquées en gras. L'exercice est terminé quand vous verrez la phrase L'exercice est terminé.
+
+La section Résumé est facultative. C'est un résumé des principales actions que vous venez de faire.
+
+Quand vous ferez les manipulations, attachez-vous à bien comprendre leur intérêt. Questionnez-vous sur leur sens et leur intérêt. Il ne sert à rien d'enchaîner les exercices, si leur intérêt vous échappe 😊
+
+Par ailleurs, si rien n'est indiqué, ne modifiez pas les valeurs par défaut. Seules les données indispensables sont indiquées.
+
+Utilisez par défaut Edge ou Chrome, sauf quand il est mentionné le contraire.
+
+Les copies d'écran servent uniquement à vérifier que vous êtes au bon endroit. Pour effectuer les exercices, basez-vous sur le texte et non pas sur le contenu des copies d'écran. Par ailleurs, pensez à adapter les valeurs des exercices à votre environnement de formation, qui peut être éventuellement différent des travaux pratiques.
+
+Si vous ne voyez pas comment faire, demandez rapidement de l'aide au formateur. Vous ne devez pas rester bloqué plus de 2 minutes.
+
+Pour effectuer les exercices, il est vivement conseillé d'afficher les extensions des fichiers dans Windows. Pour ce faire, lancer l'explorateur Windows, cliquer sur le ruban Affichage (les rubans sont toujours en haut de la fenêtre). Dans ce ruban, cocher l'option Extensions de noms de fichiers (l'option est vers la droite du ruban).
+
+
